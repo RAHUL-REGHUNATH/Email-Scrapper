@@ -1,7 +1,7 @@
 # Email-Scrapper
 scrapping email from paid Ads of google search
 
-This Scraper wil
+This Scraper will read input from google sheets and scrape all the emails from Google paid Ads then save the data in google sheets.
 
 Requirements:
 pip install pandas
